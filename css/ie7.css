@@ -1,0 +1,84 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+	display: block;
+}
+
+/*----------------- Header -----------------*/
+header {
+	height: 576px;
+}
+
+/* Big Loosers */
+#big-losers ul li.buy-beer {
+	margin-top: -3px;
+}
+
+#big-losers ul li.pay-later {
+	margin-top: 18px;
+}
+
+#big-losers ul li.fly-business {
+	margin-top: 19px;
+}
+
+#big-losers ul li p {
+	font-size: 19px;
+}
+
+/*----------------- Future Screenshots -----------------*/
+#feature-screenshots {
+	padding-bottom: 2px;
+}
+
+#fake-testimonials h2 {
+	margin-bottom: 27px;
+}
+
+/*----------------- Subscribe -----------------*/
+#subscribe p {
+	padding-top: 7px;
+	margin-bottom: 0;
+}
+
+form input.e-mail {
+	width: 274px;
+	height: 41px;
+	line-height: 40px;
+	margin-left: 5px;
+	padding-left: 10px;
+	background: #000;
+	color: #6e6e6e;
+	border: 1px solid #252525;
+	border-radius: 7px;
+	position: relative;
+	z-index: 3;
+}
+
+form input.submit {
+	width: 151px;
+	height: 43px;
+	margin-top: 6px;
+	margin-left: 5px;
+	background: url(../img/submit.png) no-repeat;
+	border: none;
+	position: relative;
+	z-index: 3;
+	display: inline-block;
+	font-size: 0;
+	line-height: 0;
+}
+
+/*----------------- Footer -----------------*/
+#footer-content-wrap {
+	margin-bottom: 28px;
+}
+
+/* Social Links */
+#social-connect {
+	margin-top: 24px;
+}
+
+ul.social {
+	margin: 18px 0 0 5px;
+	overflow: hidden;
+}

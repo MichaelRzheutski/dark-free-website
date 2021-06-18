@@ -1,0 +1,146 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+	display: block;
+}
+
+/* App-Store */
+#app-store p {
+	font-size: 16px;
+}
+
+/* Logo */
+#logo a.billmenever {
+	text-indent: -9999px;
+}
+
+#logo a.coolapped {
+	text-indent: -9999px;
+}
+
+/*----------------- Header -----------------*/
+header {
+	height: 576px;
+	z-index: 5;
+}
+
+/* App-Store */
+#app-store a {
+	text-indent: -9999px;
+}
+
+#big-losers {
+	height: 454px;
+}
+
+#big-losers p.finally {
+	text-indent: -9999px;
+}
+
+#big-losers p.losers {
+	text-indent: -9999px;
+}
+
+#big-losers ul li.buy-beer {
+	margin-top: -3px;
+}
+
+#big-losers ul li.pay-later {
+	margin-top: 18px;
+}
+
+#big-losers ul li.fly-business {
+	margin-top: 19px;
+}
+
+#big-losers ul li p {
+	font-size: 18px;
+}
+
+/*----------------- Subscribe -----------------*/
+#subscribe-left {
+	position: absolute;
+	z-index: 3;
+}
+
+#subscribe-right {
+	position: relative;
+	z-index: 3;
+}
+
+#subscribe {
+	position: relative;
+	z-index: 3;
+}
+
+#subscribe p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+form input.e-mail {
+	width: 274px;
+	height: 41px;
+	line-height: 40px;
+	margin-left: 3px;
+	padding-left: 10px;
+	background: #000;
+	color: #6e6e6e;
+	border: 1px solid #252525;
+	border-radius: 7px;
+}
+
+form input.submit {
+	width: 151px;
+	height: 43px;
+	margin: 6px 0 0 5px;
+	background: url(../img/submit.png) no-repeat;
+	font-size: 0;
+	line-height: 0;
+	border: none;
+	cursor: pointer;
+	text-indent: -9999px;
+}
+
+/*----------------- Feature Screenshots -----------------*/
+#feature-screenshots h2 {
+	text-indent: -9999px;
+	margin: 0 0 26px 10px;
+}
+
+#fake-testimonials h2 {
+	text-indent: -9999px;
+	margin-bottom: 24px;
+}
+
+/* General Mosaic Styles */
+.mosaic-block {
+	margin-left: 13px;
+}
+
+.first-block {
+	margin-left: 5px;
+}
+
+/*----------------- Footer -----------------*/
+#social-connect h4 {
+	text-indent: -9999px;
+	margin-left: 5px;
+}
+
+#footer-content-wrap {
+	margin-bottom: 28px;
+}
+
+#social-connect {
+	margin-left: 8px;
+}
+
+/* Social Links */
+ul.social li.twitter {
+	margin-left: 5px;
+}
+
+/* Copyright */
+#footer-text {
+	margin-right: 5px;
+}

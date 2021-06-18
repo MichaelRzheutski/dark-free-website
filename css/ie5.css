@@ -1,0 +1,121 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+	display: block;
+}
+
+body{
+	text-align: center;
+}
+
+/*----------------- Container Class -----------------*/
+.container {
+	text-align: left;
+}
+
+/* Header */
+header {
+	height: 576px;
+	z-index: 5;
+}
+
+/* App-Store */
+#app-store a {
+	text-indent: -9999px;
+}
+
+#logo a.billmenever, #logo a.coolapped {
+	text-indent: -9999px;
+}
+
+#big-losers p.finally {
+	text-indent: -9999px;
+}
+
+#big-losers p.losers {
+	text-indent: -9999px;
+}
+
+/*----------------- Subscribe -----------------*/
+#subscribe-left {
+	position: absolute;
+	z-index: 3;
+	left: 0;
+}
+
+#subscribe-right {
+	position: relative;
+	z-index: 3;
+}
+
+#subscribe {
+	position: relative;
+	z-index: 3;
+}
+
+#subscribe p {
+	margin: 0;
+}
+
+form input.e-mail {
+	width: 274px;
+	height: 41px;
+	line-height: 40px;
+	margin-left: 3px;
+	padding-left: 10px;
+	background: #000;
+	color: #6e6e6e;
+	border: 1px solid #252525;
+	border-radius: 7px;
+}
+
+form input.submit {
+	width: 151px;
+	height: 43px;
+	margin-top: 6px;
+	margin-left: 5px;
+	background: url(../img/submit.png) no-repeat;
+	font-size: 0;
+	line-height: 0;
+	border: none;
+	cursor: pointer;
+	text-indent: -9999px;
+}
+
+/*----------------- Feature Screenshots -----------------*/
+#feature-screenshots {
+	padding-bottom: 0;
+}
+#feature-screenshots h2 {
+	text-indent: -9999px;
+	margin: 0 0 26px 10px;
+}
+
+/*----------------- Fake Testimonials -----------------*/
+.testimonials-wrap {
+	height: 260px;
+}
+
+#fake-testimonials h2 {
+	text-indent: -9999px;
+	margin-bottom: 24px;
+}
+
+.text, .f-text, .s-text, .t-text{
+	width: 280px;
+	height: 145px;
+}
+
+/*----------------- Footer -----------------*/
+#footer-content-wrap {
+	margin-bottom: 28px;
+}
+
+/* Social Links */
+#social-connect {
+	margin-top: 24px;
+}
+
+#social-connect h4 {
+	text-indent: -9999px;
+	margin-left: 5px;
+}

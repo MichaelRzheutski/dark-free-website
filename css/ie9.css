@@ -1,0 +1,22 @@
+/* Social Links */
+ul.social li.twitter {
+	width: 59px;
+}
+
+ul.social li.youtube {
+	width: 59px;
+}
+
+/*----------------- Subscribe -----------------*/
+.e-mail {
+	width: 274px;
+	height: 41px;
+	margin-left: 3px;
+	padding-left: 10px;
+	background: #000;
+	color: #6e6e6e;
+	border: 1px solid #252525;
+	border-radius: 7px;
+	position: relative;
+	z-index: 3;
+}
