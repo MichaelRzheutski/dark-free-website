@@ -4,4 +4,4 @@ Desktop First. Фиксированная вёрстка с использова
 
 Используемые технологии: **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **Git**.
 
-![Dark Free Website - Entire-Page](dark-free-website.png)
+![Dark Free Website - Entire-Page](dark-free-website.jpg)
